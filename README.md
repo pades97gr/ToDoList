@@ -1,3 +1,7 @@
+# This is a ToDo List Application
+
+In this application users can add new tasks on the list, delete completed tasks or edit added tasks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
